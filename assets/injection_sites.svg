@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="500" viewBox="0 0 300 500">
+  <rect width="100%" height="100%" fill="white"/>
+  <!-- Simplified human silhouette -->
+  <!-- Head -->
+  <circle cx="150" cy="70" r="30" fill="#e1e8f0" stroke="#3f51b5" stroke-width="2"/>
+  <!-- Torso -->
+  <rect x="120" y="100" width="60" height="150" fill="#e1e8f0" stroke="#3f51b5" stroke-width="2"/>
+  <!-- Arms -->
+  <rect x="80" y="110" width="40" height="20" fill="#e1e8f0" stroke="#3f51b5" stroke-width="2"/>
+  <rect x="180" y="110" width="40" height="20" fill="#e1e8f0" stroke="#3f51b5" stroke-width="2"/>
+  <!-- Legs -->
+  <rect x="135" y="250" width="15" height="100" fill="#e1e8f0" stroke="#3f51b5" stroke-width="2"/>
+  <rect x="150" y="250" width="15" height="100" fill="#e1e8f0" stroke="#3f51b5" stroke-width="2"/>
+  <!-- Injection site circles -->
+  <!-- Upper arms -->
+  <circle cx="90" cy="120" r="8" fill="#f06292"/>
+  <circle cx="210" cy="120" r="8" fill="#f06292"/>
+  <!-- Abdomen -->
+  <circle cx="150" cy="170" r="10" fill="#f06292"/>
+  <!-- Thighs -->
+  <circle cx="140" cy="310" r="8" fill="#f06292"/>
+  <circle cx="160" cy="310" r="8" fill="#f06292"/>
+  <!-- Buttocks (represented on sides) -->
+  <circle cx="110" cy="240" r="8" fill="#f06292"/>
+  <circle cx="190" cy="240" r="8" fill="#f06292"/>
+  <!-- Labels -->
+  <text x="30" y="115" font-size="10" fill="#37474f">Upper arm</text>
+  <text x="205" y="115" font-size="10" fill="#37474f">Upper arm</text>
+  <text x="140" y="190" font-size="10" fill="#37474f">Abdomen</text>
+  <text x="100" y="335" font-size="10" fill="#37474f">Thighs</text>
+  <text x="105" y="255" font-size="10" fill="#37474f">Buttocks</text>
+</svg>
